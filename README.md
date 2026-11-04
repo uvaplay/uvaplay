@@ -5,9 +5,15 @@
 <h2 align="center">Software para radios, hecho en Perú 📻</h2>
 
 <p align="center">
+  <a href="https://github.com/uvaplay/UvaRadioPlay/releases/latest/download/UvaRadioPlay-Setup.exe">
+    <img src="https://img.shields.io/badge/Descargar_para_Windows-UVA_RadioPlay-7C3AED?style=for-the-badge" alt="Descargar UVA RadioPlay para Windows" height="44">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://radio.uvaplay.com"><b>radio.uvaplay.com</b></a> ·
   <a href="https://uvaplay.com">uvaplay.com</a> ·
-  <a href="https://github.com/uvaplay/UvaRadioPlay/releases/latest">Descargar UVA RadioPlay</a>
+  <a href="https://github.com/uvaplay/UvaRadioPlay">Ver el proyecto</a>
 </p>
 
 ### 🎙️ UVA RadioPlay
